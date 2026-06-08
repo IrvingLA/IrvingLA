@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Studying+computer+systems+engineering;Interested+in+learning;Linux+user;NVIM+user;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+systems+engineering;Interested+in+learning;Linux+user;NVIM+user;"></a>
 </p>
 
 <div id="user-content-toc">
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,javascript,dart,kotlin,python,haskell,html,css,tailwind,bootstrap,vue,vite,npm,laravel,spring,flutter,mysql,mongodb,firebase,graphql,git,linux,vim,neovim,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,django,html,css,tailwind,vue,vite,pnpm,spring,flutter,mysql,postgres,sqlitegraphql,git,linux,vim,neovim,postman" />
   </a>
 </p>
 
